@@ -1,0 +1,8 @@
+li {
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 5px 15px;
+    background: #cec3c3;
+    margin-right: 50px;
+}
